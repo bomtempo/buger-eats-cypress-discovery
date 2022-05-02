@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Alex Bomtempo",
+        "cpf": "00000000003",
+        "email": "bomtempo@gmail.com",
+        "whatsapp": "61999999999",
+        "adress": {
+            "postalcode": "72460200",
+            "street": "Quadra 20",
+            "number": "02",
+            "details": "Casa 02",
+            "district": "Setor Leste (Gama)",
+            "city_state": "Brasília/DF"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+    "cpf_inv": {
+        "name": "Arthur Vinicius",
+        "cpf": "0000000000",
+        "email": "arthur@gmail.com",
+        "whatsapp": "6199999999",
+        "adress": {
+            "postalcode": "72460200",
+            "street": "Quadra 20",
+            "number": "02",
+            "details": "Casa 02",
+            "district": "Setor Leste (Gama)",
+            "city_state": "Brasília/DF"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+    "email_inv": {
+        "name": "Alex Bomtempo",
+        "cpf": "00000000003",
+        "email": "bomtempo.gmail.com",
+        "whatsapp": "61999999999",
+        "adress": {
+            "postalcode": "72460200",
+            "street": "Quadra 20",
+            "number": "02",
+            "details": "Casa 02",
+            "district": "Setor Leste (Gama)",
+            "city_state": "Brasília/DF"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    }
+}
