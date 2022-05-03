@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx cypress open"
   },
-  "author": "AlexBomtempo",
+  "author": "Alex Bomtempo",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^9.5.0",
